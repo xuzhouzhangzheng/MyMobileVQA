@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VQA</string>
+    <string name="dialog_title">The Answers From Our VQA</string>
+    <string name="diglog_button">返回</string>
+</resources>
